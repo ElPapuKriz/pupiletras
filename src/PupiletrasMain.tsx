@@ -90,7 +90,7 @@ const GradientPill = ({ children }: { children: React.ReactNode }) => (
 const Header = ({ found, total }: { found: number; total: number }) => (
     <header className="text-center mb-8">
         <h1 className="text-5xl font-black tracking-tight mb-3 text-sky-600" >
-            Pupiletras Financiero
+            Pupiletras
         </h1>
         <p className="text-sky-500 font-medium tracking-widest uppercase mb-4 text-sm">
             Encuentra todas las palabras ocultas
